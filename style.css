@@ -210,7 +210,20 @@
     padding: 3vw; 
 }
 #secheading{
-    font: 1vw;
+    margin-left: 30px;
+    background-color: red;
  }
+ #heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#herofooter{
+    padding-top: 50px;
+    flex-direction: column;   
+}
+#follow{
+    padding: 40px 10px;
+}
 
   }
